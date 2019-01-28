@@ -129,7 +129,7 @@
                                 <td>{{item.value}}</td>
                                 <td>{{item.qty}}</td>
                                 <td>{{item.price}}</td>
-                                <td>ลบ</td>
+                                <td><a href='#'>Delete</a></td>
                             </tr>
                         </table>
                     </div>
